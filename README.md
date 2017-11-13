@@ -4,7 +4,7 @@
 
 This was my solution for a job test.  The idea was to find the lowest base in which a number is a palindrome, and find that base for each of the first 1000 positive integers
 
-## Installation ##
+## Instructions ##
 
 1. `git clone https://github.com/dscush/palindromes.git`
 2. `cd palindromes`
